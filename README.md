@@ -1,6 +1,6 @@
 # Stacks-ADT
 A stack  is a data structure that stores a linear collection of items with access limited to a last in first -outer.<br />
-In stacks, adding and removing of items is restricted to one end known as the top of the slack.
+In stacks, adding and removing of items is restricted to one end known as the top of the slack.<br />
 
 #Some of the used functions
 Stack() -> Creates an empty stack.
