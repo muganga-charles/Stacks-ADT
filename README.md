@@ -3,7 +3,7 @@ A stack  is a data structure that stores a linear collection of items with acces
 In stacks, adding and removing of items is restricted to one end known as the top of the slack.<br />
 
 #Some of the used functions
-Stack() -> Creates an empty stack.
+Stack() -> Creates an empty stack.<br />
 isEmpty or is_empty() -> Returns a boolean values to tell whether the stack is empty or it has items.
 length() -> Returns the number of items in the stack.
 pop() -> Removes and returns the top of item of the stack.
