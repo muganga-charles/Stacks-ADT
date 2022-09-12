@@ -6,7 +6,7 @@ In stacks, adding and removing of items is restricted to one end known as the to
 Stack() -> Creates an empty stack.<br />
 isEmpty or is_empty() -> Returns a boolean values to tell whether the stack is empty or it has items.<br />
 length() -> Returns the number of items in the stack.<br />
-pop() -> Removes and returns the top of item of the stack.
+pop() -> Removes and returns the top of item of the stack.<br />
 peek() -> Returns a reference to the item on top of the non-empty stack without removing it.
 push() -> Adds the given item to the top of a stack.
 
