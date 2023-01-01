@@ -9,4 +9,4 @@ pop() -> Removes and returns the top of item of the stack.<br />
 peek() -> Returns a reference to the item on top of the non-empty stack without removing it.<br />
 push() -> Adds the given item to the top of a stack.
 ### A stack is not a built in function therefore we define it as a class.
-FFFFT
+FFFF
